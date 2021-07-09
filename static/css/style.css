@@ -83,6 +83,11 @@ font-family: 'Zen Tokyo Zoo', cursive; */
         width: 170px;
     }
 
+    .check{
+        height: 30px;
+        width: 30px;
+    }
+
     /* instant doubt solve section */
     .doubtsolve-img:hover {
 
